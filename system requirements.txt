@@ -1,0 +1,8 @@
+MINIMUM:
+OS: Windows 7/8/10 (64-bit OS required)
+Processor: Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz
+Memory: 4 GB RAM
+Graphics: NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent
+DirectX: Version 9.0c
+Storage: 3 GB available space
+Sound Card: 100% DirectX 9.0c compatible sound card
